@@ -4,7 +4,7 @@
 
 body{
     font-family: 'Kdam Thmor Pro', Courier;
-    overflow-x: hidden;
+    overflow-x: hidden !important;
 }
 .text-hero{
   color : #FFA33C;
